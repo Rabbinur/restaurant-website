@@ -1,4 +1,4 @@
-# Live preview Link: [ChefRestaurant](https://ramrachai.com/chefrestaurant)
+
 
 ![Recipe App Image](./pic.jpg "Recipe App image")
 
